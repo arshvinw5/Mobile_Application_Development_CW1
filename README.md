@@ -1,16 +1,18 @@
-# note_app
+Mobile Application Development Coursework 1
 
-A new Flutter project.
+“MySimpleNote” is a personal notes management application for organizing daily notes. It should include the following features:
 
-## Getting Started
+-	Create a new note
+-	Save a new note
+-	Delete a note
+-	Edit a note
+-	View a note
+-	Display all notes
 
-This project is a starting point for a Flutter application.
+Develop this mobile application using Flutter and SQLite. You can add more features beyond the basic note management functionalities. Utilize Flutter's SQLFlite package for local data storage. When developing the application, focus on following facts:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-	Use a suitable software architecture/design for your application.
+-	Use mobile development best practices for development. 
+-	Custom components.
+-	Use UI/UX best practices.
+-	Technical documentation, demonstration Video and source code.
